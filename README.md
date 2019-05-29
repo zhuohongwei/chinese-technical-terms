@@ -23,15 +23,36 @@ I created this repository to collect each new Chinese technical term that I lear
 - Class 类
 - Subclass 子类
 - Permission 权限
-- Detail 详情 
+- Detail 详情
 - Feature 功能
 - Method 方法
 - Script 脚本
 - Collection 容器 / 集合
 - Map 映射
 - API Endpoint 接口
+- Port 端口
+- Server 服务端
 - Framework 框架
 - Source code 源码
 - Description 描述
 - Prefix 前缀 (qian2 zhui4)
-- Compatible 兼容  
+- Compatible 兼容
+- Program 程序
+- Project 项目
+- Procedure/Process 流程
+- Online 上线/线上
+- Logic 逻辑
+- Throw error 报错
+- Log 日志
+- Node 节点
+- User 用户
+- Version 版本
+- Repository 仓库
+- Setting 设置
+- Configure 配置
+- Directory 目录
+- Path 路径
+- Absolute path 绝对路径
+- Save 保存
+- Blockchain 区块链
+- Integrate 对接
