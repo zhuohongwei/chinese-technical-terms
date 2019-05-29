@@ -13,8 +13,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Wrap 封装
 - Scroll 上下滚动
 - Swipe 滑动
-- Crash 闪退，
-- Unrecoverable crash 崩溃
+- Crash 闪退 / 崩溃
 - Thread 线程
 - ThreadSafe 线程安全
 - Multithreaded 多线程
