@@ -30,7 +30,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Script 脚本
 - Collection 容器 / 集合
 - Map 映射
-- API 接口
+- API Endpoint 接口
 - Framework 框架
 - Source code 源码
 - Description 描述
