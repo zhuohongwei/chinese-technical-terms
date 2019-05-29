@@ -1,5 +1,5 @@
 # Chinese Technical Terms
-I created this repository to collect each new Chinese technical term that I learn. I hope it will be useful for anyone who knows some Chinese and needs to discuss technical stuff in chinese. Please feel free to contribute to this list or report any mistakes.  
+I created this repository to collect each new Chinese technical term that I learn. I hope it will be useful for anyone who knows some Chinese and needs to discuss technical stuff in Chinese. Please feel free to contribute to this list or report any mistakes.  
 
 - Code 代码
 - Data 数据
