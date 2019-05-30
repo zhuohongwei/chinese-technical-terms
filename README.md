@@ -95,7 +95,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Screenshot / Screencapture 截图 (jie tu) 
 - Script 脚本
 - Scroll 上下滚动
-- Security 防御
+- Security 安全
 - Server 服务端
 - Setting 设置
 - Source code 源码
