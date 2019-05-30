@@ -120,4 +120,5 @@ I created this repository to collect each new Chinese technical term that I lear
 
 # W
 
+- Webhook 钩子 (gōu zǐ）
 - Wrap 封装 (fēng zhuāng)
