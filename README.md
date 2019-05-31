@@ -48,6 +48,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 # I
 
+- Immutability 不可篡改性 (bù kě cuàn gǎi xìng)
 - Integrate 对接 (duì jiē)
 
 # L
@@ -98,16 +99,19 @@ I created this repository to collect each new Chinese technical term that I lear
 - Security 安全 (ān quán)
 - Server 服务端 (fú wù duān)
 - Setting 设置 (shè zhì)
+- Smart Contract 智能合约 (zhì něng hé yuē)
 - Source code 源码 (yuán mǎ)
 - Subclass 子类 (zǐ lèi)
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
 - Swipe 滑动 (huá dòng)
+- Sybil Attack 女巫攻击 (nǚ wū gōng jī)
    
 # T
 
 - Thread 线程 (xiàn chéng)
 - ThreadSafe 线程安全 (xiàn chéng  ān quán)
 - Throw error 报错 (bào cuò)
+- Transaction Fee 手续费 (shǒu xù fèi)
  
 # U
 
