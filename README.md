@@ -31,6 +31,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Database 数据库 (shù jù kù)
 - Description 描述 (miáo shù)
 - Detail 详情 (xiáng qíng)
+- Developer 开发者 （kāi fā zhě）
 - Directory 目录 (mù lù)
 - Domain 域名 (yù míng) 
 
