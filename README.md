@@ -6,6 +6,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - API Endpoint 接口 (jiē kǒu) 
 - Absolute path 绝对路径 (jué duì  lù jìng)
 - Account 账户 (zhàng hù)
+- App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
 
 # B
 
@@ -44,6 +45,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Feature 功能 (gōng néng)
 - Feedback 反馈 (fǎn kuì) 
+- Filter 筛选功能 (shāi xuǎn gōng néng)
 - Firewall 防火墙 (fáng huǒ qiáng)
 - Framework 框架 (kuàng jià)
 
@@ -57,6 +59,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Layout 构图 (gòu tú)
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì) 
+- Loss 损失 (sǔn shī)
 
 # M
 
@@ -82,6 +85,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Port 端口 (duān kǒu)
 - Prefix 前缀 (qián zhuì)
 - Procedure/Process 流程 (liú chéng)
+- Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù) 
 
@@ -90,6 +94,8 @@ I created this repository to collect each new Chinese technical term that I lear
 - Refactor 重构 (chóng gòu)
 - Repository 仓库 (cāng kù)
 - (Http) Request 请求 (qǐng qiú)
+- Retention rate 留存率 (liú cún lǜ)
+- Revenue 营收 (yíng shōu)
 
 # S
 
@@ -99,6 +105,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
 - Security 安全 (ān quán)
 - Server 服务端 (fú wù duān)
+- Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
 - Smart Contract 智能合约 (zhì něng hé yuē)
 - Source code 源码 (yuán mǎ)
@@ -117,6 +124,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # U
 
 - User 用户 (yòng hù)
+- User acquisition 使用者获取 (shǐ yòng zhě huò qǔ)
 
 # V
 
