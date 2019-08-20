@@ -19,6 +19,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Class 类 (lèi)
 - Code 代码 (dài mǎ)
 - Collection 容器 / 集合 (róng qì / jí hé)
+- Comments 注释 (zhù shì)
 - Compatible 兼容 (jiān róng)
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
@@ -45,6 +46,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Feature 功能 (gōng néng)
 - Feedback 反馈 (fǎn kuì)
+- Field validation 字段校验 (zì duàn jiào yàn)
 - Filter 筛选功能 (shāi xuǎn gōng néng)
 - Firewall 防火墙 (fáng huǒ qiáng)
 - Framework 框架 (kuàng jià)
@@ -57,6 +59,8 @@ I created this repository to collect each new Chinese technical term that I lear
 # L
 
 - Layout 构图 (gòu tú)
+- Lazy loading 懒加载 (lǎn jiā zài)
+- Lint / Format code 格式化 (gé shì huà)
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì)
 - Loss 损失 (sǔn shī)
@@ -108,6 +112,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
 - Smart Contract 智能合约 (zhì něng hé yuē)
+- Style sheet 样式文件 (yàng shì wén jiàn)
 - Source code 源码 (yuán mǎ)
 - Subclass 子类 (zǐ lèi)
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
