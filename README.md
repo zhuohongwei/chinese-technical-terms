@@ -1,16 +1,16 @@
 # Chinese Technical Terms
-I created this repository to collect each new Chinese technical term that I learn. I hope it will be useful for anyone who knows some Chinese and needs to discuss technical stuff in Chinese. Please feel free to contribute to this list or report any mistakes.  
+I created this repository to collect each new Chinese technical term that I learn. I hope it will be useful for anyone who knows some Chinese and needs to discuss technical stuff in Chinese. Please feel free to contribute to this list or report any mistakes.
 
 # A
 
-- API Endpoint 接口 (jiē kǒu) 
+- API Endpoint 接口 (jiē kǒu)
 - Absolute path 绝对路径 (jué duì  lù jìng)
 - Account 账户 (zhàng hù)
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
 
 # B
 
-- Blockchain 区块链 (qū kuài lián) 
+- Blockchain 区块链 (qū kuài lián)
 
 # C
 
@@ -19,6 +19,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Class 类 (lèi)
 - Code 代码 (dài mǎ)
 - Collection 容器 / 集合 (róng qì / jí hé)
+- Comments 注释 (zhù shì)
 - Compatible 兼容 (jiān róng)
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
@@ -34,7 +35,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Detail 详情 (xiáng qíng)
 - Developer 开发者 （kāi fā zhě）
 - Directory 目录 (mù lù)
-- Domain 域名 (yù míng) 
+- Domain 域名 (yù míng)
 
 # E
 
@@ -44,7 +45,8 @@ I created this repository to collect each new Chinese technical term that I lear
 # F
 
 - Feature 功能 (gōng néng)
-- Feedback 反馈 (fǎn kuì) 
+- Feedback 反馈 (fǎn kuì)
+- Field validation 字段校验 (zì duàn jiào yàn)
 - Filter 筛选功能 (shāi xuǎn gōng néng)
 - Firewall 防火墙 (fáng huǒ qiáng)
 - Framework 框架 (kuàng jià)
@@ -57,8 +59,10 @@ I created this repository to collect each new Chinese technical term that I lear
 # L
 
 - Layout 构图 (gòu tú)
+- Lazy loading 懒加载 (lǎn jiā zài)
+- Lint / Format code 格式化 (gé shì huà)
 - Log 日志 (rì zhì)
-- Logic 逻辑 (luó jì) 
+- Logic 逻辑 (luó jì)
 - Loss 损失 (sǔn shī)
 
 # M
@@ -66,7 +70,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Map 映射 (yìng shè)
 - Method 方法 (fāng fǎ)
 - Module 模块 (mó kuài)
-- Multithreaded 多线程 (duō xiàn chéng) 
+- Multithreaded 多线程 (duō xiàn chéng)
 
 # N
 
@@ -87,7 +91,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Procedure/Process 流程 (liú chéng)
 - Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
-- Project 项目 (xiàng mù) 
+- Project 项目 (xiàng mù)
 
 # R
 
@@ -100,7 +104,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # S
 
 - Save 保存 (bǎo cún)
-- Screenshot / Screencapture 截图 (jié tú) 
+- Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
 - Security 安全 (ān quán)
@@ -108,19 +112,20 @@ I created this repository to collect each new Chinese technical term that I lear
 - Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
 - Smart Contract 智能合约 (zhì něng hé yuē)
+- Style sheet 样式文件 (yàng shì wén jiàn)
 - Source code 源码 (yuán mǎ)
 - Subclass 子类 (zǐ lèi)
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
-   
+
 # T
 
 - Thread 线程 (xiàn chéng)
 - ThreadSafe 线程安全 (xiàn chéng  ān quán)
 - Throw error 报错 (bào cuò)
 - Transaction Fee 手续费 (shǒu xù fèi)
- 
+
 # U
 
 - User 用户 (yòng hù)
