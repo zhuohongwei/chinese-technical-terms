@@ -24,6 +24,8 @@ I created this repository to collect each new Chinese technical term that I lear
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
 - Create 创建 (chuàng jiàn)
+- Concurrency 并发 (bìng fā)
+- Compile 编译 (biān yì)
 
 # D
 
@@ -41,6 +43,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Edit 编辑 (biān jí)
 - Event 事件 (shì jiàn)
+- Execute 执行 (zhí xíng)
 
 # F
 
@@ -55,6 +58,10 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Immutability 不可篡改性 (bù kě cuàn gǎi xìng)
 - Integrate 对接 (duì jiē)
+
+# K
+
+- Kernel 内核 (nèi hé)
 
 # L
 
@@ -93,6 +100,10 @@ I created this repository to collect each new Chinese technical term that I lear
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù)
 
+# Q
+
+- Queue 队列 (duì liè)
+
 # R
 
 - Refactor 重构 (chóng gòu)
@@ -100,6 +111,8 @@ I created this repository to collect each new Chinese technical term that I lear
 - (Http) Request 请求 (qǐng qiú)
 - Retention rate 留存率 (liú cún lǜ)
 - Revenue 营收 (yíng shōu)
+- RAM 内存 (nèi cún)
+- Run 运行 (yùn xíng)
 
 # S
 
@@ -118,6 +131,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
+- Schedule/Scheduler 调度
 
 # T
 
