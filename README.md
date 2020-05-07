@@ -13,10 +13,13 @@ I created this repository to collect each new Chinese technical term that I lear
 - Backend 后端 (hòu duān)
 - Blockchain 区块链 (qū kuài lián)
 - Branch 分支 (fēn zhī)
+- Byte 字节 (zì jié)
+- Byte stream 字节流 (zì jié liú)
 
 # C
 
 - Cache 缓存 (huǎn cún)
+- Character 字符（zìfú)
 - Child view 子视图 (zǐ  shì tú)
 - Class 类 (lèi)
 - Code 代码 (dài mǎ)
@@ -139,6 +142,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
 - Schedule/Scheduler 调度
+- String 字符串 (zìfú chuàn)
 
 # T
 
