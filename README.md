@@ -4,13 +4,15 @@ I created this repository to collect each new Chinese technical term that I lear
 # A
 
 - API Endpoint 接口 (jiē kǒu)
-- Absolute path 绝对路径 (jué duì  lù jìng)
+- Absolute path 绝对路径 (jué duì lù jìng)
 - Account 账户 (zhàng hù)
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
 
 # B
 
+- Backend 后端 (hòu duān)
 - Blockchain 区块链 (qū kuài lián)
+- Branch 分支 (fēn zhī)
 
 # C
 
@@ -21,6 +23,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Collection 容器 / 集合 (róng qì / jí hé)
 - Comments 注释 (zhù shì)
 - Compatible 兼容 (jiān róng)
+- Conflict 冲突 (chōng tú)
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
 - Create 创建 (chuàng jiàn)
@@ -42,6 +45,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # E
 
 - Edit 编辑 (biān jí)
+- Editor 编辑器 (biān jí qì)
 - Event 事件 (shì jiàn)
 - Execute 执行 (zhí xíng)
 
@@ -53,6 +57,8 @@ I created this repository to collect each new Chinese technical term that I lear
 - Filter 筛选功能 (shāi xuǎn gōng néng)
 - Firewall 防火墙 (fáng huǒ qiáng)
 - Framework 框架 (kuàng jià)
+- Frontend 前端 (qián duān)
+- Full stack 全栈 (quán zhàn)
 
 # I
 
@@ -75,6 +81,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # M
 
 - Map 映射 (yìng shè)
+- Merge 合并 (hé bìng)
 - Method 方法 (fāng fǎ)
 - Module 模块 (mó kuài)
 - Multithreaded 多线程 (duō xiàn chéng)
