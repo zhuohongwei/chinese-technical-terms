@@ -8,6 +8,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Absolute path 绝对路径 (jué duì lù jìng)
 - Account 账户 (zhàng hù)
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
+- Analytic 分析 (fēn xī)
 
 # B
 
@@ -36,6 +37,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Create 创建 (chuàng jiàn)
 - Concurrency 并发 (bìng fā)
 - Compile 编译 (biān yì)
+- Commit (code) 提交 (tí jiāo)
 
 # D
 
@@ -49,6 +51,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Directory 目录 (mù lù)
 - Domain 域名 (yù míng)
 - Documentation 文档 (wén dàng)
+- Dependency 依赖 (yī lài)
 
 # E
 
@@ -96,6 +99,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Method 方法 (fāng fǎ)
 - Module 模块 (mó kuài)
 - Multithreaded 多线程 (duō xiàn chéng)
+- Monitoring 监控 (jiān kòng)
 
 # N
 
@@ -112,6 +116,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Padding (CSS) 內间距 (nèi jiān jù) / 內边距 (nèi biān jù)
 - Path 路径 (lù jìng)
 - Permission 权限 (quán xiàn)
+- Performance Testing 性能测试 (xìng néng cè shì)
 - Pixel 像素 (xiàng sù)
 - Port 端口 (duān kǒu)
 - Prefix 前缀 (qián zhuì)
@@ -119,6 +124,9 @@ I created this repository to collect each new Chinese technical term that I lear
 - Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù)
+- Property 属性 (shǔ xìng)
+- Push (code) 推送 (tuī sòng)
+- Pull (code) 拉取 (lā qǔ)
 
 # Q
 
@@ -158,6 +166,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # T
 
 - Test 测试 (cè shì)
+- Template 模板 (mú bǎn)
 - Thread 线程 (xiàn chéng)
 - ThreadSafe 线程安全 (xiàn chéng  ān quán)
 - Throw error 报错 (bào cuò)
