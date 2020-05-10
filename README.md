@@ -106,6 +106,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Port 端口 (duān kǒu)
 - Prefix 前缀 (qián zhuì)
 - Procedure/Process 流程 (liú chéng)
+- Process (as in [Process](https://en.wikipedia.org/wiki/Process_(computing)) vs Threads) 进程 (jìn chéng)
 - Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù)
