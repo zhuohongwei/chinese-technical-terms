@@ -109,6 +109,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù)
+- Proxy 代理 (dài lǐ)
 
 # Q
 
@@ -121,12 +122,14 @@ I created this repository to collect each new Chinese technical term that I lear
 - (Http) Request 请求 (qǐng qiú)
 - Retention rate 留存率 (liú cún lǜ)
 - Revenue 营收 (yíng shōu)
+- Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
 - RAM 内存 (nèi cún)
 - Run 运行 (yùn xíng)
 
 # S
 
 - Save 保存 (bǎo cún)
+- Scaffold 脚手架 (jiǎo shǒu jià)
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
