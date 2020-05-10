@@ -121,12 +121,14 @@ I created this repository to collect each new Chinese technical term that I lear
 - Port 端口 (duān kǒu)
 - Prefix 前缀 (qián zhuì)
 - Procedure/Process 流程 (liú chéng)
+- Process (as in [Process](https://en.wikipedia.org/wiki/Process_(computing)) vs Threads) 进程 (jìn chéng)
 - Profit 利润 (lì rùn)
 - Program 程序 (chéng xù)
 - Project 项目 (xiàng mù)
 - Property 属性 (shǔ xìng)
-- Push (code) 推送 (tuī sòng)
+- Proxy 代理 (dài lǐ)
 - Pull (code) 拉取 (lā qǔ)
+- Push (code) 推送 (tuī sòng)
 
 # Q
 
@@ -140,12 +142,14 @@ I created this repository to collect each new Chinese technical term that I lear
 - (Http) Request 请求 (qǐng qiú)
 - Retention rate 留存率 (liú cún lǜ)
 - Revenue 营收 (yíng shōu)
+- Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
 - RAM 内存 (nèi cún)
 - Run 运行 (yùn xíng)
 
 # S
 
 - Save 保存 (bǎo cún)
+- Scaffold 脚手架 (jiǎo shǒu jià)
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
