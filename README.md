@@ -24,9 +24,10 @@ I created this repository to collect each new Chinese technical term that I lear
 # C
 
 - Cache 缓存 (huǎn cún)
-- Character 字符（zìfú)
-- Child view 子视图 (zǐ  shì tú)
+- Character 字符（zì fú)
+- Child view 子视图 (zǐ shì tú)
 - Class 类 (lèi)
+- Cloud Computing 云计算 (yún jì suàn)
 - Code 代码 (dài mǎ)
 - Collection 容器 / 集合 (róng qì / jí hé)
 - Comments 注释 (zhù shì)
@@ -52,6 +53,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Domain 域名 (yù míng)
 - Documentation 文档 (wén dàng)
 - Dependency 依赖 (yī lài)
+- Developement Environment 开发环境 (kāi fà huán jìng)
 
 # E
 
