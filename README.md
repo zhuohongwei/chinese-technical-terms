@@ -150,6 +150,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Save 保存 (bǎo cún)
 - Scaffold 脚手架 (jiǎo shǒu jià)
+- Schedule/Scheduler 调度
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
@@ -157,15 +158,15 @@ I created this repository to collect each new Chinese technical term that I lear
 - Server 服务端 (fú wù duān)
 - Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
+- Site reliability engineering 网站可靠性工程 (wǎng zhàn kě kào xìng gōng chéng)
 - Smart Contract 智能合约 (zhì něng hé yuē)
+- String 字符串 (zìfú chuàn)
 - Style sheet 样式文件 (yàng shì wén jiàn)
 - Source code 源码 (yuán mǎ)
 - Subclass 子类 (zǐ lèi)
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
-- Schedule/Scheduler 调度
-- String 字符串 (zìfú chuàn)
 
 # T
 
