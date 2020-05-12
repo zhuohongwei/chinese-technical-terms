@@ -167,6 +167,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Source code 源码 (yuán mǎ)
 - Subclass 子类 (zǐ lèi)
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
+- Suffix 后缀 (hòu zhuì)
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
 
