@@ -8,6 +8,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Absolute path 绝对路径 (jué duì lù jìng)
 - Account 账户 (zhàng hù)
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
+- App 应用 (yìng yòng)
 - Analytic 分析 (fēn xī)
 
 # B
@@ -27,6 +28,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Character 字符（zì fú)
 - Child view 子视图 (zǐ shì tú)
 - Class 类 (lèi)
+- Command line interface 命令行工具 (mìnglìngháng gōngjù)
 - Cloud Computing 云计算 (yún jì suàn)
 - Code 代码 (dài mǎ)
 - Collection 容器 / 集合 (róng qì / jí hé)
@@ -66,6 +68,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Feature 功能 (gōng néng)
 - Feedback 反馈 (fǎn kuì)
+- Feature gate 灰度 (huī dù)
 - Field validation 字段校验 (zì duàn jiào yàn)
 - File 文件 (wén jiàn)
 - Filter 筛选功能 (shāi xuǎn gōng néng)
@@ -79,6 +82,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Immutability 不可篡改性 (bù kě cuàn gǎi xìng)
 - Integrate 对接 (duì jiē)
 - Integration Testing 集成测试 (jí chéng cè shì)
+- Input field 输入框 (shūrù kuāng)
 
 # K
 
@@ -91,6 +95,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Lint / Format code 格式化 (gé shì huà)
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì)
+- Login 登录 (dēnglù)
 - Loss 损失 (sǔn shī)
 
 # M
@@ -99,6 +104,10 @@ I created this repository to collect each new Chinese technical term that I lear
 - Margin (CSS) 外间距 (wài jiān jù) / 外边距 (wài bian jù)
 - Merge 合并 (hé bìng)
 - Method 方法 (fāng fǎ)
+- Micro service 微服务 (wéi fúwù)
+- Micro frontend 微应用 (wéi yìngyòng)
+- Mini app 小程序 (Xiǎo chéngxù)
+- Modal/Popup 弹窗 (Dàn chuāng)
 - Module 模块 (mó kuài)
 - Multithreaded 多线程 (duō xiàn chéng)
 - Monitoring 监控 (jiān kòng)
@@ -106,6 +115,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # N
 
 - Node 节点 (jié diǎn)
+
 
 # O
 
@@ -120,6 +130,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Permission 权限 (quán xiàn)
 - Performance Testing 性能测试 (xìng néng cè shì)
 - Pixel 像素 (xiàng sù)
+- Plugin 插件 (Chājiàn)
 - Port 端口 (duān kǒu)
 - Prefix 前缀 (qián zhuì)
 - Procedure/Process 流程 (liú chéng)
@@ -139,14 +150,18 @@ I created this repository to collect each new Chinese technical term that I lear
 # R
 
 - Refactor 重构 (chóng gòu)
+- Release (code) 发布 (Fābù)
 - Repository 仓库 (cāng kù)
 - Regression Testing 回归测试 (huí guī cè shì)
 - (Http) Request 请求 (qǐng qiú)
+- Render 渲染 (xuànrǎn)
 - Retention rate 留存率 (liú cún lǜ)
 - Revenue 营收 (yíng shōu)
 - Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
 - RAM 内存 (nèi cún)
 - Run 运行 (yùn xíng)
+- Runtime environment 运行时环境 (yùnxíng shí huánjìng)
+- Rollback 回滚 (huí gǔn)
 
 # S
 
@@ -175,15 +190,18 @@ I created this repository to collect each new Chinese technical term that I lear
 
 - Test 测试 (cè shì)
 - Template 模板 (mú bǎn)
+- Traffic 流量 (liúliàng)
 - Thread 线程 (xiàn chéng)
 - ThreadSafe 线程安全 (xiàn chéng  ān quán)
 - Throw error 报错 (bào cuò)
 - Transaction Fee 手续费 (shǒu xù fèi)
+- Troubleshoot 排查 (pái chá)
 
 # U
 
 - User 用户 (yòng hù)
 - User acquisition 使用者获取 (shǐ yòng zhě huò qǔ)
+- Usability Testing 可用性测试 (kěyòngxìng cèshì)
 
 # V
 
