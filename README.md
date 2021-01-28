@@ -55,7 +55,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Domain 域名 (yù míng)
 - Documentation 文档 (wén dàng)
 - Dependency 依赖 (yī lài)
-- Developement Environment 开发环境 (kāi fà huán jìng)
+- Development Environment 开发环境 (kāi fà huán jìng)
 
 # E
 
@@ -172,6 +172,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
 - Security 安全 (ān quán)
+- Serialization 序列化 (xù liè huà)
 - Server 服务端 (fú wù duān)
 - Server migration 服务器迁移 (fú wù qì qiān yí)
 - Setting 设置 (shè zhì)
