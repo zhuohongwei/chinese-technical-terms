@@ -41,6 +41,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Concurrency 并发 (bìng fā)
 - Compile 编译 (biān yì)
 - Commit (code) 提交 (tí jiāo)
+- Customise 客制化 (kè zhì huà)
 
 # D
 
