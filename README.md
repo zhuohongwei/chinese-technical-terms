@@ -31,6 +31,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Command line interface 命令行工具 (mìnglìngháng gōngjù)
 - Cloud Computing 云计算 (yún jì suàn)
 - Code 代码 (dài mǎ)
+- Code Repository 代码库 (dài mǎ kù)
 - Collection 容器 / 集合 (róng qì / jí hé)
 - Comments 注释 (zhù shì)
 - Compatible 兼容 (jiān róng)
@@ -81,6 +82,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # I
 
 - Immutability 不可篡改性 (bù kě cuàn gǎi xìng)
+- Indexes 索引 (suǒ yǐn)
 - Integrate 对接 (duì jiē)
 - Integration Testing 集成测试 (jí chéng cè shì)
 - Input field 输入框 (shūrù kuāng)
@@ -146,6 +148,7 @@ I created this repository to collect each new Chinese technical term that I lear
 
 # Q
 
+- Query 查询 (chá xún)
 - Queue 队列 (duì liè)
 
 # R
@@ -169,6 +172,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Save 保存 (bǎo cún)
 - Scaffold 脚手架 (jiǎo shǒu jià)
 - Schedule/Scheduler 调度
+- Screen 屏幕 (píng mù)
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
 - Scroll 上下滚动 (shàng xià  gǔn dòng)
@@ -208,6 +212,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # V
 
 - Version 版本 (bǎn běn)
+- Video 视频 (shì pín)
 - View 视图 (shì tú)
 
 # W
