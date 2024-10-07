@@ -94,6 +94,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Layout 构图 (gòu tú)
 - Lazy loading 懒加载 (lǎn jiā zài)
 - Lint / Format code 格式化 (gé shì huà)
+- Load Test 压测 （yā cè）
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì)
 - Login 登录 (dēnglù)
