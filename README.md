@@ -10,6 +10,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
 - App 应用 (yìng yòng)
 - Analytic 分析 (fēn xī)
+- Artificial Intelligence 人工智能 (réngōng zhìnéng)
 
 # B
 
@@ -39,6 +40,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Configure 配置 (pèi zhì)
 - Crash 闪退 / 崩溃 (shǎn tuì / bēng kuì)
 - Create 创建 (chuàng jiàn)
+- Cross-platform 跨平台 （kuà píngtái）
 - Concurrency 并发 (bìng fā)
 - Compile 编译 (biān yì)
 - Commit (code) 提交 (tí jiāo)
@@ -50,6 +52,8 @@ I created this repository to collect each new Chinese technical term that I lear
 - Data Center 数据中心 (shù jù  zhōng xīn)
 - Data 数据 (shù jù)
 - Database 数据库 (shù jù kù)
+- Data Abstraction 数据抽象 （shùjù chōuxiàng）
+- Data Analysis 数据分析 （shùjù fēnxī）
 - Description 描述 (miáo shù)
 - Detail 详情 (xiáng qíng)
 - Developer 开发者 （kāi fā zhě）
@@ -58,6 +62,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Documentation 文档 (wén dàng)
 - Dependency 依赖 (yī lài)
 - Development Environment 开发环境 (kāi fà huán jìng)
+- Decoupling 解耦 (jiě ǒu)
 
 # E
 
@@ -119,6 +124,7 @@ I created this repository to collect each new Chinese technical term that I lear
 # N
 
 - Node 节点 (jié diǎn)
+- Neural Network 神经网络 （shénjīng wǎngluò）
 
 
 # O
@@ -136,6 +142,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Pixel 像素 (xiàng sù)
 - Plugin 插件 (Chājiàn)
 - Port 端口 (duān kǒu)
+- Polymorphism 多态性（duō tài xìng）
 - Prefix 前缀 (qián zhuì)
 - Procedure/Process 流程 (liú chéng)
 - Process (as in [Process](https://en.wikipedia.org/wiki/Process_(computing)) vs Threads) 进程 (jìn chéng)
@@ -184,6 +191,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Setting 设置 (shè zhì)
 - Site reliability engineering 网站可靠性工程 (wǎng zhàn kě kào xìng gōng chéng)
 - Smart Contract 智能合约 (zhì něng hé yuē)
+- State 状态 (zhuàng tài)
 - String 字符串 (zìfú chuàn)
 - Style sheet 样式文件 (yàng shì wén jiàn)
 - Source code 源码 (yuán mǎ)
@@ -192,6 +200,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Suffix 后缀 (hòu zhuì)
 - Swipe 滑动 (huá dòng)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
+- Sync 同步 （tóng bù）
 
 # T
 
