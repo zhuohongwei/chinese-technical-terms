@@ -236,5 +236,5 @@ I created this repository to collect each new Chinese technical term that I lear
 # W
 
 - Webhook 钩子 (gōu zǐ）
-- Withing Budget 预算范围内 (yùsuàn fànwéi nèi)
+- Within Budget 预算范围内 (yùsuàn fànwéi nèi)
 - Wrap 封装 (fēng zhuāng)
