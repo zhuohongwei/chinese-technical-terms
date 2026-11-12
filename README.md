@@ -7,6 +7,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - API Endpoint 接口 (jiē kǒu)
 - Absolute path 绝对路径 (jué duì lù jìng)
 - Account 账户 (zhàng hù)
+- Adjust expectations 调整预期 (Tiáozhěng yùqí )
 - App release App 新版本上线 (App xīn bǎn běn shàng xiàn)
 - App 应用 (yìng yòng)
 - Analytic 分析 (fēn xī)
@@ -102,6 +103,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Lazy loading 懒加载 (lǎn jiā zài)
 - Lint / Format code 格式化 (gé shì huà)
 - Load Test 压测 （yā cè）
+- Load Balancer 负载均衡器 (Fùzǎi jūnhéng qì)
 - Log 日志 (rì zhì)
 - Logic 逻辑 (luó jì)
 - Login 登录 (dēnglù)
@@ -170,16 +172,19 @@ I created this repository to collect each new Chinese technical term that I lear
 - Retention rate 留存率 (liú cún lǜ)
 - Revenue 营收 (yíng shōu)
 - Reverse Proxy 反向代理 (fǎn xiàng dài lǐ)
+- Risk Management 风险管理 (Fēngxiǎn guǎnlǐ)
 - RAM 内存 (nèi cún)
 - Run 运行 (yùn xíng)
 - Runtime environment 运行时环境 (yùnxíng shí huánjìng)
 - Rollback 回滚 (huí gǔn)
+- Router 路由器 (lùyóuqì)
 
 # S
 
 - Save 保存 (bǎo cún)
 - Scaffold 脚手架 (jiǎo shǒu jià)
 - Schedule/Scheduler 调度
+- Scope of Work 工作范围 (Gōngzuò fànwéi)
 - Screen 屏幕 (píng mù)
 - Screenshot / Screencapture 截图 (jié tú)
 - Script 脚本 (jiǎo běn)
@@ -191,6 +196,7 @@ I created this repository to collect each new Chinese technical term that I lear
 - Setting 设置 (shè zhì)
 - Site reliability engineering 网站可靠性工程 (wǎng zhàn kě kào xìng gōng chéng)
 - Smart Contract 智能合约 (zhì něng hé yuē)
+- Stakeholders 利益相关者 (Lìyì xiāngguān zhě)
 - State 状态 (zhuàng tài)
 - String 字符串 (zìfú chuàn)
 - Style sheet 样式文件 (yàng shì wén jiàn)
@@ -199,7 +205,9 @@ I created this repository to collect each new Chinese technical term that I lear
 - Subdomain / secondary domain 子域名 / 二级域名 (zǐ  yù míng / èr jí  yù míng)
 - Suffix 后缀 (hòu zhuì)
 - Swipe 滑动 (huá dòng)
+- Switch 交换机 (Jiāohuànjī)
 - Sybil Attack 女巫攻击 (nǚ wū gōng jī)
+- System 系统 (Xìtǒng)
 - Sync 同步 （tóng bù）
 
 # T
@@ -228,4 +236,5 @@ I created this repository to collect each new Chinese technical term that I lear
 # W
 
 - Webhook 钩子 (gōu zǐ）
+- Withing Budget 预算范围内 (yùsuàn fànwéi nèi)
 - Wrap 封装 (fēng zhuāng)
